@@ -26,7 +26,7 @@ Some of the core code has been uploaded.
 
 Once the project is complete, all the code will be uploaded.
 
-The dataset is only partially exposed by enterprise requirements, but is large enough to be used to train a small model, as explained in our article
+The dataset is only partially oppened as enterprise requirements, but it is still enough to be used to train a small model, as explained in our article
 
 
 
