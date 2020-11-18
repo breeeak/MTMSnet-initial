@@ -1,6 +1,10 @@
 # MTMSnet for the Recognition of Fabric Structure Parameters 
 This is the repo for the recognition of fabric structure paramers, including fabric density measurement, weave pattern recognition, color pattern recognition
 
+![alledition](./alledition.png)
+![flowchart](./flowchart.png)
+![netstructure](./netstructure.png)
+
 ## Papers
 
 [Shuo Meng, Ruru Pan, Weidong Gao, Jian Zhou, Jingan Wang, Wentao He. A multi-task and multi-scale convolutional neural network for automatic recognition of woven fabric pattern. Journal of Intelligent Manufacturing.](https://doi.org/10.1007/s10845-020-01607-9)
